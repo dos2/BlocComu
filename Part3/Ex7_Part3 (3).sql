@@ -1,0 +1,1 @@
+Select origin, avg(DepDelay) as prom_sortides, avg(ArrDelay) as prom_arribades from flights group by origin

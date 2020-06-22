@@ -1,0 +1,13 @@
+Estic escrivint en aquest document
+aquesta és una segona frase
+
+
+Els anteriors missatges creia que els estava fent des de Master però realment els havia fet des de Branch1
+Aquestes dues línies sí que són des de Master
+
+Modificació des de la Branch1
+
+Modificació des de master
+
+mODIFICACIÓ	des de Master2
+
